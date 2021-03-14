@@ -2,6 +2,6 @@
 
 En este repositorio se econtraran ejercicios resueltos de mineria de datos
 
-##Trabajos
+## Trabajos
 
-Ensayos regresión [HTML](https://htmlpreview.github.io/?https://github.com/avbernalm/Trabajos-mineria/blob/main/Codigo/Ensayo%20regresion.html)
+Ensayos regresión [nbviewer](https://nbviewer.jupyter.org/github/avbernalm/Trabajos-mineria/blob/main/Codigo/Ensayo%20regresion.html)
